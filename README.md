@@ -1,2 +1,2 @@
 # Arjunvk_portfolio
-Example Business Analytics and Data Analytics Project Portfolio
+Business/Data analytics portfolio projects to showcase skills in analytics tools
