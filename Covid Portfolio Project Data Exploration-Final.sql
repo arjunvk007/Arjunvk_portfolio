@@ -6,6 +6,8 @@ order by 3,4
 --from SQLPortfolioProjectDataExploration..CovidVaccination
 --order by 3,4
 
+--select the data that we are going to be using
+
 select Location, Date, total_cases, new_cases, total_deaths, population
 From SQLPortfolioProjectDataExploration..CovidDeaths
 order by 1,2
