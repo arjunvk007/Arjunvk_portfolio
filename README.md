@@ -10,6 +10,12 @@ Overall, the Power BI dashboard created for the data professional focused on pro
 
 ### Result
 ![Powerbi_Portfolio_Project_Data_Professional_survey_breakdown_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/92877cdf-e2da-4fe9-859d-a32808549306)
+## Project 2: Bike Sales Data Excel Portfolio Project
+### Description
+
+### Result
+![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/45ccc7fe-8991-42c0-bb82-035046362d03)
+![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/c08c9f26-174b-4af3-a9d5-badc74658bac)
 ## Project 6: Road Accident Data PowerBI Portfolio Project
 ### Description
 The PowerBI dashboard created for analyzing road accident data, begin by designing a clean and organized layout utilizing power query considering the KPI’s:
