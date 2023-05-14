@@ -12,7 +12,15 @@ Overall, the Power BI dashboard created for the data professional focused on pro
 ![Powerbi_Portfolio_Project_Data_Professional_survey_breakdown_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/92877cdf-e2da-4fe9-859d-a32808549306)
 ## Project 2: Bike Sales Data Excel Portfolio Project
 ### Description
+Analyzing data using Excel for Bike Sales involved organizing, summarizing, and visualizing large volumes of data to gain insights that can help drive business decisions. The process involved cleaning the data to remove any inconsistencies, formatting the data to ensure consistency, and creating a pivot table and dashboard for better visualization.
 
+To begin the analysis, the bike sales data was analyzed and deep dived through the various columns for better understanding of the data. Next, the data was cleaned to remove any inconsistencies in the data, such as missing values, replacing to standard values and standardized grouping.
+
+Once the data is clean, a pivot table can be created to summarize the data by category and help identify trends and patterns. The pivot table can also be used to create charts and graphs that help visualize the data in a meaningful way.
+
+Finally, a dashboard has been created to display key metrics and KPIs related to bike sales. The dashboard is visually appealing and easy to understand, with interactive features including slicers  that allow users to drill down into the data for further insights and for the functionality of the dashboard.
+
+In summary, analyzing bike sales data using Excel involves cleaning, formatting, and summarizing data to gain insights that can help drive business decisions. Creating a pivot table and dashboard help to visualize the data in a meaningful way and identify trends and patterns that can inform future strategies.
 ### Result
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/45ccc7fe-8991-42c0-bb82-035046362d03)
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/c08c9f26-174b-4af3-a9d5-badc74658bac)
