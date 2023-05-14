@@ -9,4 +9,4 @@ The dashboard features a range of interactive visualizations, including bar char
 Overall, the Power BI dashboard created for the data professional focused on providing valuable insights into the data and allowing  to make informed decisions based on the survey results.
 
 ### Result
-![Final report for data professional survey](Powerbi_Portfolio_Project_Data_Professional_survey_breakdown_page-0001.jpg)
+![Report for data professional survey](Porfoli project result images-api/Powerbi_Portfolio_Project_Data_Professional_survey_breakdown_page-0001.jpg)
