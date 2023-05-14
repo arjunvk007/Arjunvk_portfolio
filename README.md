@@ -10,7 +10,7 @@ Overall, the Power BI dashboard created for the data professional focused on pro
 
 ### Result
 ![Powerbi_Portfolio_Project_Data_Professional_survey_breakdown_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/92877cdf-e2da-4fe9-859d-a32808549306)
-## Project 6: 
+## Project 6: Road Accident Data PowerBI portfolio project
 ### Description
 The PowerBI dashboard created for analyzing road accident data, begin by designing a clean and organized layout utilizing power query considering the KPI’s:
 
