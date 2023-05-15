@@ -26,10 +26,20 @@ In summary, analyzing bike sales data using Excel involves cleaning, formatting,
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/c08c9f26-174b-4af3-a9d5-badc74658bac)
 ## Project 5: Testing PowerBI & Tableau HR Dashboard Portfolio Project
 ### Description
-As part of a personal project, I used SQL in order to ensure the accuracy and reliability of the data presented in the dashboards, I conducted comprehensive testing of the HR data analytics. 
+As part of a personal project, I used SQL in order to ensure the accuracy and reliability of the data presented in the dashboard, I conducted comprehensive testing of the HR data analytics. 
 Throughout the testing process, I utilized SQL queries to verify that the visualizations and calculations within the dashboards were accurate and relevant. 
 Overall, this personal project allowed me to develop and showcase my skills in data analytics, SQL. It also gave me the opportunity to demonstrate my ability to conduct thorough testing, doucmentation and ensure the quality and reliability of data-driven solutions.
-
+### Queries
+![queries_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/0eff6a2e-03e8-4df8-9378-d8cdde698785)
+![queries_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/dc46c5bd-6f17-47c5-8dc8-bf04f4631cbf)
+![queries_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/40be4290-49ac-4606-b326-b34149a818f6)
+![queries_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/2d068696-53f4-42a0-ac68-ebd482b2689c)
+![queries_page-0005](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/76561d14-4c7a-445f-8dec-77c1883ed79d)
+### Result
+![SQL Test Document_Power BI docx_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/8224c50c-3a08-4ce3-849a-3d2d8893564c)
+![SQL Test Document_Power BI docx_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/6b9b6113-8e36-4b03-969e-46fd1d67b5eb)
+![SQL Test Document_Power BI docx_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/32cfc1cb-1891-467b-bda9-51126685e66a)
+![SQL Test Document_Power BI docx_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/92ebd9ca-ee4d-4855-bd80-eef27856eab6)
 ## Project 6: Road Accident Data PowerBI Portfolio Project
 ### Description
 The PowerBI dashboard created for analyzing road accident data, begin by designing a clean and organized layout utilizing power query considering the KPI’s:
