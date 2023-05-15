@@ -36,10 +36,10 @@ Overall, this personal project allowed me to develop and showcase my skills in d
 ![queries_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/2d068696-53f4-42a0-ac68-ebd482b2689c)
 ![queries_page-0005](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/76561d14-4c7a-445f-8dec-77c1883ed79d)
 ### Result
-![SQL Test Document_Power BI docx_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/8224c50c-3a08-4ce3-849a-3d2d8893564c)
-![SQL Test Document_Power BI docx_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/6b9b6113-8e36-4b03-969e-46fd1d67b5eb)
-![SQL Test Document_Power BI docx_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/32cfc1cb-1891-467b-bda9-51126685e66a)
-![SQL Test Document_Power BI docx_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/92ebd9ca-ee4d-4855-bd80-eef27856eab6)
+![SQL Test Document_Power BI docx_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/fdda9096-3f25-4d6e-9b2a-e55cd980e147)
+![SQL Test Document_Power BI docx_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/16fb7870-1c99-4714-95df-68369664460c)
+![SQL Test Document_Power BI docx_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/f8bb7130-17a4-463e-8bf3-d298988a232d)
+![SQL Test Document_Power BI docx_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/9dbaa16d-6d76-43a5-9e79-a43ba55aee4d)
 ## Project 6: Road Accident Data PowerBI Portfolio Project
 ### Description
 The PowerBI dashboard created for analyzing road accident data, begin by designing a clean and organized layout utilizing power query considering the KPI’s:
