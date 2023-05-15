@@ -24,6 +24,12 @@ In summary, analyzing bike sales data using Excel involves cleaning, formatting,
 ### Result
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/45ccc7fe-8991-42c0-bb82-035046362d03)
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/c08c9f26-174b-4af3-a9d5-badc74658bac)
+## Project 5: Testing PowerBI & Tableau HR Dashboard Portfolio Project
+### Description
+As part of a personal project, I used SQL in order to ensure the accuracy and reliability of the data presented in the dashboards, I conducted comprehensive testing of the HR data analytics. 
+Throughout the testing process, I utilized SQL queries to verify that the visualizations and calculations within the dashboards were accurate and relevant. 
+Overall, this personal project allowed me to develop and showcase my skills in data analytics, SQL. It also gave me the opportunity to demonstrate my ability to conduct thorough testing, doucmentation and ensure the quality and reliability of data-driven solutions.
+
 ## Project 6: Road Accident Data PowerBI Portfolio Project
 ### Description
 The PowerBI dashboard created for analyzing road accident data, begin by designing a clean and organized layout utilizing power query considering the KPI’s:
