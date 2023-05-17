@@ -29,13 +29,8 @@ In summary, analyzing bike sales data using Excel involves cleaning, formatting,
 As part of a personal project, I used SQL in order to ensure the accuracy and reliability of the data presented in the dashboard, I conducted comprehensive testing of the HR data analytics. 
 Throughout the testing process, I utilized SQL queries to verify that the visualizations and calculations within the dashboards were accurate and relevant. 
 Overall, this personal project allowed me to develop and showcase my skills in data analytics, SQL. It also gave me the opportunity to demonstrate my ability to conduct thorough testing, doucmentation and ensure the quality and reliability of data-driven solutions.
-### Queries
-![queries_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/0eff6a2e-03e8-4df8-9378-d8cdde698785)
-![queries_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/dc46c5bd-6f17-47c5-8dc8-bf04f4631cbf)
-![queries_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/40be4290-49ac-4606-b326-b34149a818f6)
-![queries_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/2d068696-53f4-42a0-ac68-ebd482b2689c)
-![queries_page-0005](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/76561d14-4c7a-445f-8dec-77c1883ed79d)
 ### Result
+Example test document
 ![SQL Test Document_Power BI docx_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/fdda9096-3f25-4d6e-9b2a-e55cd980e147)
 ![SQL Test Document_Power BI docx_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/16fb7870-1c99-4714-95df-68369664460c)
 ![SQL Test Document_Power BI docx_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/f8bb7130-17a4-463e-8bf3-d298988a232d)
