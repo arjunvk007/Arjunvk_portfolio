@@ -24,6 +24,18 @@ In summary, analyzing bike sales data using Excel involves cleaning, formatting,
 ### Result
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/45ccc7fe-8991-42c0-bb82-035046362d03)
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/c08c9f26-174b-4af3-a9d5-badc74658bac)
+## Project 3: Covid Data Exploration SQL Portfolio Project
+### Description
+My COVID data exploration portfolio project leverages SQL to understand pandemic's impact. Through analysis of the data, I uncover valuable insights and trends that shed light on the virus's spread and its effects on various populations in different countries.
+
+Using SQL queries, I extracted relevant information from the dataset, such as daily cases, deaths, hospitalizations, and vaccination rates. I apply filters and aggregations to understand how these metrics vary across regions, age groups, and demographics. By the exploration of data, I gain a holistic understanding of the pandemic's repercussions on society.
+
+In summary, my COVID data exploration portfolio project showcases my ability to use SQL to analyze and visualize complex datasets, providing a comprehensive overview of the pandemic's progression and its broader impact on various aspects of our lives.
+### Queries
+![Data eXploration queries_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/98ccea7e-fa5b-4b26-8824-8d468db373fd)
+![Data eXploration queries_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/cc0fef96-4980-4454-aecd-d8c76a4fbd66)
+![Data eXploration queries_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/4d4aa6d4-6ff1-4597-bc57-f5e26a51e7d7)
+![Data eXploration queries_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/6645fb73-f40d-4724-9927-7df2b38f18fa)
 ## Project 5: Testing PowerBI & Tableau HR Dashboard Portfolio Project
 ### Description
 As part of a personal project, I used SQL in order to ensure the accuracy and reliability of the data presented in the dashboard, I conducted comprehensive testing of the HR data analytics. 
