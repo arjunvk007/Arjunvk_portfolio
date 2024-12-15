@@ -24,43 +24,7 @@ In summary, analyzing bike sales data using Excel involves cleaning, formatting,
 ### Result
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/45ccc7fe-8991-42c0-bb82-035046362d03)
 ![Excel portfolio_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/c08c9f26-174b-4af3-a9d5-badc74658bac)
-## Project 3: Covid Data Exploration SQL Portfolio Project
-### Description
-My COVID data exploration portfolio project leverages SQL to understand pandemic's impact. Through analysis of the data, I uncover valuable insights and trends that shed light on the virus's spread and its effects on various populations in different countries.
-
-Using SQL queries, I extracted relevant information from the dataset, such as daily cases, deaths, hospitalizations, and vaccination rates. I apply filters and aggregations to understand how these metrics vary across regions, age groups, and demographics. By the exploration of data, I gain a holistic understanding of the pandemic's repercussions on society.
-
-In summary, my COVID data exploration portfolio project showcases my ability to use SQL to analyze and visualize complex datasets, providing a comprehensive overview of the pandemic's progression and its broader impact on various aspects of our lives.
-### Queries
-![Data eXploration queries_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/98ccea7e-fa5b-4b26-8824-8d468db373fd)
-![Data eXploration queries_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/cc0fef96-4980-4454-aecd-d8c76a4fbd66)
-![Data eXploration queries_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/4d4aa6d4-6ff1-4597-bc57-f5e26a51e7d7)
-![Data eXploration queries_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/6645fb73-f40d-4724-9927-7df2b38f18fa)
-## Project 4: Nashville Housing Data Cleaning SQL Portfolio Project 
-### Description
-In my Nashville Housing Data Cleaning Portfolio Project, I undertook a comprehensive analysis of housing data in Nashville using SQL. As part of the process, I delved into the dataset to clean, transform, and prepare the data for meaningful insights.
-
-My project began with importing the raw Nashville housing dataset into a SQL database, ensuring data integrity and security. I then utilized SQL queries and functions to clean the data, addressing issues such as missing values, inconsistent formats, and outliers. By employing various data cleaning techniques, including data imputation, data type conversions, converting to standardized data and removing duplicates, I was able to enhance the overall quality and accuracy of the dataset.
-
-By showcasing my proficiency in SQL data cleaning techniques and my ability to derive meaningful insights from complex datasets, this portfolio project demonstrates my expertise in data analysis and my commitment to delivering accurate and reliable results.
-### Queries
-![Data Cleaning_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/98553ef3-ffb7-42ba-965f-84fa3ded288b)
-![Data Cleaning_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/f95d67df-9292-4084-a2a3-798f28d4f52a)
-![Data Cleaning_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/46af8cc4-6f9d-4fbd-b732-be16ed9af032)
-![Data Cleaning_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/08d4150a-ae2c-4700-9e09-38b8648cd3fc)
-![Data Cleaning_page-0005](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/32dbcc6c-0530-4a6b-8a16-6d2658130073)
-## Project 5: Testing PowerBI & Tableau HR Dashboard Portfolio Project
-### Description
-As part of a personal project, I used SQL in order to ensure the accuracy and reliability of the data presented in the dashboard, I conducted comprehensive testing of the HR data analytics. 
-Throughout the testing process, I utilized SQL queries to verify that the visualizations and calculations within the dashboards were accurate and relevant. 
-Overall, this personal project allowed me to develop and showcase my skills in data analytics, SQL. It also gave me the opportunity to demonstrate my ability to conduct thorough testing, doucmentation and ensure the quality and reliability of data-driven solutions.
-### Result
-Example test document
-![SQL Test Document_Power BI docx_page-0001](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/fdda9096-3f25-4d6e-9b2a-e55cd980e147)
-![SQL Test Document_Power BI docx_page-0002](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/16fb7870-1c99-4714-95df-68369664460c)
-![SQL Test Document_Power BI docx_page-0003](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/f8bb7130-17a4-463e-8bf3-d298988a232d)
-![SQL Test Document_Power BI docx_page-0004](https://github.com/arjunvk007/my_portfolio_projects/assets/125860492/9dbaa16d-6d76-43a5-9e79-a43ba55aee4d)
-## Project 6: Road Accident Data PowerBI Portfolio Project
+## Project 3: Road Accident Data PowerBI Portfolio Project
 ### Description
 The PowerBI dashboard created for analyzing road accident data, begin by designing a clean and organized layout utilizing power query considering the KPI’s:
 
